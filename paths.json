@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/github",
+    "url": "https://github.com"
+  },
+  {
+    "path": "/google",
+    "url": "https://www.google.com"
+  },
+  {
+    "path": "/golang",
+    "url": "https://golang.org"
+  },
+  {
+    "path": "/yt",
+    "url": "https://www.youtube.com"
+  },
+  {
+    "path": "/news",
+    "url": "https://news.ycombinator.com"
+  }
+]

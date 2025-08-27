@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/openai",
+    "url": "https://openai.com"
+  },
+  {
+    "path": "/chatgpt",
+    "url": "https://chat.openai.com"
+  },
+  {
+    "path": "/docker",
+    "url": "https://www.docker.com"
+  },
+  {
+    "path": "/k8s",
+    "url": "https://kubernetes.io"
+  },
+  {
+    "path": "/devdocs",
+    "url": "https://devdocs.io"
+  }
+]
